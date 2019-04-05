@@ -1,0 +1,10 @@
+{
+  "name": "demo-linkdevelop",
+  "version": "1.0.0",
+  "description": "tinyengine app",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "deviceShadow": "0.0.2"
+  }
+}
